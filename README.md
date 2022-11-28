@@ -7,11 +7,6 @@
 
 [![website](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://gdscutm.com/#)
 
-
-
----
-##
----
 Please check out my projects.
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mandalaw)
